@@ -1,6 +1,7 @@
 """
 The ants module implements game logic for Ants Vs. SomeBees.
-Name: Kira Bacsi
+Name: Kira Bacsi, Loretta Chan
+
 Login: cs61a-hr
 TA: Julia Oh
 Section: 115
